@@ -3,6 +3,6 @@ Just another Repository
 
 Hi Developers Team,
 
-Vijay kanumuri is here, created a new 
+Vijay kanumuri here, created a new 
 repository.
 
