@@ -3,6 +3,6 @@ Just another Repository
 
 Hi Dev Team,
 
-Vijay kanumuri here, created a new 
+Vijay kanumuri here, i have joined sathya Devops class and created a new 
 repository.
 
